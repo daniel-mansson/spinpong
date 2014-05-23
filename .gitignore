@@ -11,3 +11,8 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+
+
+build/
+Library/
+obj/
